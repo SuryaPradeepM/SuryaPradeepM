@@ -22,5 +22,5 @@ Looking for a driven person who can serve as a DATA SCIENTIST, AI/ML ENGINEER wi
 [<img target="_blank" src="https://i.imgur.com/tQ2Utey.png" alt = "Whatsapp" height = "52"/>](https://wa.me/917982851542)  
 [<img target="_blank" src="https://i.imgur.com/ewkyNiB.png" alt = "Mail" height = "52"/>](mailto:suryapradeepm@outlook.in)  
 [<img target="_blank" src="https://i.imgur.com/F5SlIIv.png" alt = "Twitter" height = "52"/>](https://twitter.com/suryapradeep_m)  
-[<img target="_blank" src="https://i.imgur.com/lmPxzx3.png" alt = "Certs" height = "52"/>](https://github.com/SuryaPradeepM/Certificates)  
 [<img target="_blank" src="https://i.imgur.com/uT97BmS.png" alt = "Tableau" height = "52"/>](https://public.tableau.com/profile/suryapradeepm/#!/)  
+[<img target="_blank" src="https://i.imgur.com/lmPxzx3.png" alt = "Certs" height = "52"/>](https://github.com/SuryaPradeepM/Certificates)  
