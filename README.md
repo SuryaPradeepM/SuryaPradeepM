@@ -25,4 +25,5 @@ Looking for a driven person who can serve as a DATA SCIENTIST, AI/ML ENGINEER wi
 [<img target="_blank" src="https://i.imgur.com/uT97BmS.png" alt = "Tableau" height = "52"/>](https://public.tableau.com/profile/suryapradeepm/#!/)  
 [<img target="_blank" src="https://i.imgur.com/lmPxzx3.png" alt = "Certs" height = "52"/>](https://github.com/SuryaPradeepM/Certificates)  
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SuryaPradeepM)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SuryaPradeepM)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub](https://github-readme-stats.vercel.app/api?username=SuryaPradeepM&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) --->
