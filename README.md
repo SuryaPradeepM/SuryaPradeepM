@@ -27,3 +27,6 @@ Looking for a driven person who can serve as a DATA SCIENTIST, AI/ML ENGINEER wi
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SuryaPradeepM)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub](https://github-readme-stats.vercel.app/api?username=SuryaPradeepM&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) --->
+
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=SuryaPradeepM&show_icons=true&hide_border=True)](https://github.com/SuryaPradeepM)
