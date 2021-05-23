@@ -18,11 +18,13 @@ I am a firm believer in Lifelong Learning and am a complete MOOC fanatic.
 Looking for a driven person who can serve as a DATA SCIENTIST, AI/ML ENGINEER with annoying attention to detail and a voracious appetite to learn new things and grow? You've got me!
 
 ### Get in touch <img target="_blank" src="https://i.imgur.com/y6gRBGy.png" height = "30.7"/>
-[<img target="_blank" src="https://i.imgur.com/720hQFC.png" alt = "linkedIn" height = "52"/>](https://www.linkedin.com/in/SuryaPradeepM/)
-[<img target="_blank" src="https://i.imgur.com/tQ2Utey.png" alt = "Whatsapp" height = "52"/>](https://wa.me/917982851542) 
-[<img target="_blank" src="https://i.imgur.com/ewkyNiB.png" alt = "Mail" height = "52"/>](mailto:suryapradeepm@outlook.in)
-[<img target="_blank" src="https://i.imgur.com/uT97BmS.png" alt = "Tableau" height = "52"/>](https://public.tableau.com/profile/suryapradeepm/#!/) 
-[<img target="_blank" src="https://i.imgur.com/lmPxzx3.png" alt = "Certs" height = "52"/>](https://github.com/SuryaPradeepM/Certificates)
+[<img target="_blank" src="https://i.imgur.com/lmPxzx3.png" alt = "Certs" height = "52"/>](https://github.com/SuryaPradeepM/Certificates) 
+[<img target="_blank" src="https://i.imgur.com/720hQFC.png" alt = "linkedIn" height = "52"/>](https://www.linkedin.com/in/SuryaPradeepM/) 
+[<img target="_blank" src="https://i.imgur.com/uT97BmS.png" alt = "Tableau" height = "52"/>](https://public.tableau.com/profile/suryapradeepm/#!/) 
+[<img target="_blank" src="https://i.imgur.com/tQ2Utey.png" alt = "Whatsapp" height = "52"/>](https://wa.me/917982851542) 
+[<img target="_blank" src="https://i.imgur.com/ewkyNiB.png" alt = "Mail" height = "52"/>](mailto:suryapradeepm@outlook.in) 
+
+
 
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SuryaPradeepM)](https://github.com/anuraghazra/github-readme-stats)
