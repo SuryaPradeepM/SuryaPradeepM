@@ -24,11 +24,9 @@ Looking for a driven person who can serve as a DATA SCIENTIST, AI/ML ENGINEER wi
 [<img target="_blank" src="https://i.imgur.com/tQ2Utey.png" alt = "Whatsapp" height = "52"/>](https://wa.me/917982851542) 
 [<img target="_blank" src="https://i.imgur.com/ewkyNiB.png" alt = "Mail" height = "52"/>](mailto:suryapradeepm@outlook.in) 
 
-
-
+<img src="https://komarev.com/ghpvc/?username=SuryaPradeepM&label=&color=4CAF50&style=flat" alt="View-Counter" />
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SuryaPradeepM)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub](https://github-readme-stats.vercel.app/api?username=SuryaPradeepM&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) --->
-
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=SuryaPradeepM&show_icons=true&hide_border=True)](https://github.com/SuryaPradeepM)
+
