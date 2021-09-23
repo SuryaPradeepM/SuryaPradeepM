@@ -1,6 +1,6 @@
 ### Hi, I am Surya Pradeep<img target="_blank" src="https://i.imgur.com/zj8ZWgr.png" height = "30.7"/>  <img target = "_blank" src="https://i.imgur.com/wtDYgOj.gif" height = "28.7">
 
-I’m a Computer Science & Engineering graduate of 2020 batch. I’m an aspiring data scientist with experience in Data Science, Machine Learning and Deep Learning.
+I’m a data scientist with experience in Statistical Modelling, Machine Learning and Deep Learning.
 I am deeply passionate about Data Science and have been in awe of how good Machines can “Learn”; how 100 lines of code can empower industries to automate tasks that otherwise take long, tedious hours to complete.
 I continuously adapt to specific problems and situations to help those Artificial brains boost their learning.
 I am a firm believer in Lifelong Learning and am a complete MOOC fanatic.
