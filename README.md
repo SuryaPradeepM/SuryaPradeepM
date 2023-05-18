@@ -15,6 +15,7 @@ I am a firm believer in Lifelong Learning and am a complete MOOC fanatic.
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/> Writing clean & understandable code.<br>
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/> Designing informative & beautiful visualizations from the data.<br>
 
+My primary programming language is Python, although I am also very quick to pick up other languages or frameworks as needed.
 Looking for a driven person who can serve as a DATA SCIENTIST, AI/ML ENGINEER with annoying attention to detail and a voracious appetite to learn new things and grow? You've got me!
 
 ### Get in touch <img target="_blank" src="https://i.imgur.com/y6gRBGy.png" height = "30.7"/>
