@@ -23,21 +23,23 @@ I am a firm believer in Lifelong Learning and am a complete MOOC fanatic. My pri
 [<img target="_blank" src="https://i.imgur.com/tQ2Utey.png" alt = "Whatsapp" height = "52"/>](https://wa.me/917982851542) 
 [<img target="_blank" src="https://i.imgur.com/ewkyNiB.png" alt = "Mail" height = "52"/>](mailto:suryapradeepm@outlook.in) 
 
+
+<!--
 ### Check-In Stats <img target="_blank" src="https://imgur.com/Hw72WqE.png" height = "30.7"/>
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=SuryaPradeepM&show_icons=true&theme=radical&hide_border=True)](https://github.com/SuryaPradeepM)
-
+-->
 ### My Skills <img target="_blank" src="https://i.imgur.com/tI830Gv.png" height = "30.7"/>
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 #### Tools and Frameworks
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5.svg?style=flat-square&logo=spaCy&logoColor=ffffff)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff)
 ![Transformers](https://img.shields.io/badge/-Transformers-3178C6?style=flat-square&logo=huggingface&logoColor=ffffff)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=ffffff)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5.svg?style=flat-square&logo=spaCy&logoColor=ffffff)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff)
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=MongoDB&logoColor=white)
