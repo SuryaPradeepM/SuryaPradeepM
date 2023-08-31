@@ -1,10 +1,22 @@
 ### Hi, I am Surya Pradeep<img target="_blank" src="https://i.imgur.com/zj8ZWgr.png" height = "30.7"/>  <img target = "_blank" src="https://i.imgur.com/wtDYgOj.gif" height = "28.7">
 
-I’m a data scientist at Curl Analytics with experience in Statistical Modelling, Machine Learning and Deep Learning.
-I am deeply passionate about Data Science and have been in awe of how good Machines can “Learn”; how 100 lines of code can empower industries to automate tasks that otherwise take long, tedious hours to complete.
-I try to continuously adapt to solve novel problems in the purisuit of helping Artificial brains learn.
+I have been in awe of how good machines can "Learn"; how just 10 lines of code can empower industries to automate tasks that otherwise take long, tedious hours to complete. I continuously adapt to latest technologies, problems and situations to help those artificial brains boost their learning.
 
 ### How do I help machines "learn"? <img target="_blank" src="https://i.imgur.com/tTJgCkz.png" height = "30.7"/>
+
+"How do I help machines learn?" 💻 <br>
+✔ Working with Machine Learning Algorithms (Linear, Logistic, Ridge, Lasso, Elastic Net, K-Means, Random Forests, XGBoost, Neural Networks, ANN, CNN, LSTM)<br>
+✔ Working on extensive data gathering and data wrangling pipelines<br>
+✔ Working on multi dimensional data analysis and data visualizations for extracting  insights and visual storytelling<br>
+✔ Working with technologies like Scikit-learn, Pandas, Numpy, Keras, OpenCV,  TensorFlow, and PyTorch<br>
+✔ Building mathematical models for various Natural Language Processing (NLP) tasks<br>
+✔ Fine-tuning Large Language Models (LLMs) (like bloom, palm) for NER, QnA and various other tasks<br>
+✔ Building ChatGPT based applications with Langchain<br>
+✔ Reading and extracting insights from recent research papers<br>
+✔ Refactoring, writing clean & understandable code<br>
+✔ Designing informative & beautiful visualizations and dashboards<br>
+<br>
+<!--
 
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/> Working with Machine Learning Algorithms (Linear, Logistic, Ridge, Lasso, KMeans, Random Forests, XGBoost, Neural Networks,... ).<br>
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/> Working on data gathering pipelines.<br>
@@ -14,7 +26,11 @@ I try to continuously adapt to solve novel problems in the purisuit of helping A
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/> Writing clean & understandable code.<br>
 <img target="_blank" src="https://i.imgur.com/UqXfMdN.png" width = "17"/> Designing informative & beautiful visualizations from the data.<br>
 
-I am a firm believer in Lifelong Learning and am a complete MOOC fanatic. My primary programming language is Python, although I am also very quick to pick up other languages or frameworks as needed. Looking for a driven person who can serve as a DATA SCIENTIST, AI/ML ENGINEER with annoying attention to detail and a voracious appetite to learn new things and grow? You've got me!
+-->
+Looking for a driven person who can serve as a DATA SCIENTIST, AI/ML ENGINEER with annoying attention to detail and a voracious appetite to learn new things and grow? You've got me!
+
+Email me at: suryapradeepm@outlook.in or suraypradeepv@gmail.com
+
 
 ### Get in touch <img target="_blank" src="https://i.imgur.com/y6gRBGy.png" height = "30.7"/>
 [<img target="_blank" src="https://i.imgur.com/lmPxzx3.png" alt = "Certs" height = "52"/>](https://github.com/SuryaPradeepM/Certificates) 
